@@ -1,3 +1,5 @@
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=8432konia alt=8432konia/></p>
+
 ### Hi there 👋
 
 <!--
