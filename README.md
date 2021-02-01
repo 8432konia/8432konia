@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 💬 Ask me about anything related to Javascript/Typescript/JVM Lang
-- 📫 How to reach me: [@8432konia](https://twitter.com/8432konia)
+- 📫 How to reach [me](hsnok.nocell@gmail.com)
 - ⚡ Fun fact: I :heart: :cat:s
 
 📊 **Most Used Languages**
