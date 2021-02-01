@@ -7,9 +7,10 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/8432konia)
 - ⚡ Fun fact: I :heart: :cat:s
 
-📊 **This week I spent my time on**
+📊 **Most Used Languages**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=8432konia&hide_title=true&hide_border=true&langs_count=5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8432konia&hide_title=true&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
