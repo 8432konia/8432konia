@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 💬 Ask me about anything related to Javascript/Typescript/JVM Lang
 - 📫 How to reach [me](https://www.linkedin.com/in/hashinaoki/)
-- ⚡ Fun fact: I :heart: :cat:s
+- ⚡ Fun fact: BigBang theories
 
 📊 **Most Used Languages**
 
