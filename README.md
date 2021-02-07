@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and Blockchain
-- 💬 Ask me about anything related to Javascript/Typescript/JVM Lang
+- 💬 Ask me about anything related to Javascript/Typescript/JVM Langs
 - 📫 How to reach [me](https://www.linkedin.com/in/hashinaoki/)
 - ⚡ Fun fact: BigBang theories
 
